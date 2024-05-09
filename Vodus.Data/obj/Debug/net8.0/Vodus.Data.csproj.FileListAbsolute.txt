@@ -1,0 +1,14 @@
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\bin\Debug\net8.0\Vodus.Data.deps.json
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\bin\Debug\net8.0\Vodus.Data.dll
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\bin\Debug\net8.0\Vodus.Data.pdb
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\Vodus.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\Vodus.Data.AssemblyInfoInputs.cache
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\Vodus.Data.AssemblyInfo.cs
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\Vodus.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\Vodus.Data.dll
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\refint\Vodus.Data.dll
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\Vodus.Data.pdb
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\ref\Vodus.Data.dll
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\bin\Debug\net8.0\Vodus.Data.runtimeconfig.json
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\Vodus.Data.csproj.AssemblyReference.cache
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Data\obj\Debug\net8.0\Vodus.Data.genruntimeconfig.cache

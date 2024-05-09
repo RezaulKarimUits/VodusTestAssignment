@@ -1,0 +1,15 @@
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\bin\Debug\net8.0\Vodus.Business.deps.json
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\bin\Debug\net8.0\Vodus.Business.dll
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\bin\Debug\net8.0\Vodus.Business.pdb
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\bin\Debug\net8.0\Vodus.Data.dll
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\bin\Debug\net8.0\Vodus.Data.pdb
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\Vodus.Business.csproj.AssemblyReference.cache
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\Vodus.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\Vodus.Business.AssemblyInfoInputs.cache
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\Vodus.Business.AssemblyInfo.cs
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\Vodus.Business.csproj.CoreCompileInputs.cache
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\Vodus.Business.csproj.CopyComplete
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\Vodus.Business.dll
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\refint\Vodus.Business.dll
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\Vodus.Business.pdb
+C:\Users\Rezaul karim\source\repos\VodusTaskA\Vodus.Business\obj\Debug\net8.0\ref\Vodus.Business.dll
